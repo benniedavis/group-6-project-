@@ -238,12 +238,11 @@
                }
                #nav li a{
                   color: white;
-                  font-size:px;
+                  font-size:10px;
               }
      #meet{
         display:;
 padding:50px;
-justify-content: space between;
 }
               #meet-photos img{
                border-radius:50%;
