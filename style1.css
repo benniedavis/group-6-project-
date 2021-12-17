@@ -238,18 +238,16 @@
                }
                #nav li a{
                   color: white;
-                  font-size:5px;
+                  font-size:2px;
               }
      #meet{
-        display:;
-padding:50px;
+padding:30px;
 }
               #meet-photos img{
                border-radius:50%;
                 width:300px;
 height:280px;
 border: 1px solid orange;
-display:;
 }
         
             
