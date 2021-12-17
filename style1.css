@@ -219,7 +219,7 @@
 
 
 
-            @media(max-width:800px) {
+            @media(max-width:500px) {
                #nav {
                   background-color:black;
                   border-radius:25%;
