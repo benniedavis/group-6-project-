@@ -223,13 +223,13 @@
                #nav {
                   background-color:black;
                   border-radius:25%;
-                  margin-top: -12px;
+                  margin-top: -5px;
                   padding-top: px;
                   padding-bottom:px;
                }
                #nav ul li{
                   display: inline;
-                  padding:1px;
+                  padding:0px;
                }
                #nav ul {
                   display: inline;
@@ -241,7 +241,7 @@
                   font-size: 0px;
               }
      #meet{
-        display: float;
+        display:;
 padding:50px;
 justify-content: space between;
 }
@@ -250,7 +250,7 @@ justify-content: space between;
                 width:300px;
 height:280px;
 border: 1px solid orange;
-display: float;
+display:;
 }
         
             
