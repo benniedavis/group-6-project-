@@ -238,10 +238,9 @@
                }
                #nav li a{
                   color: white;
-                  font-size: 15px;
+                  font-size: 10px;
               }
      #meet{
-        display: float;
 padding:50px;
 justify-content: space between;
 }
